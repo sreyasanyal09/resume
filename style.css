@@ -1,0 +1,19 @@
+ul {
+    background-color: lavender;
+}
+
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
